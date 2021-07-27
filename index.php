@@ -1,2 +1,2 @@
 <?php
-  echo "Bem vindo a XPTO3 - Servidor de testes";
+  echo "Bem vindo a XPTO3: Servidor de testes";
